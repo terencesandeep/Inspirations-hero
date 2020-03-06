@@ -19,6 +19,13 @@ header h1{
 
 }
 
+header h3{
+	color:white;
+	font-family: 'Space Mono', monospace;
+	font-size: 36px;
+
+}
+
 
 header img{
 	width: 360px;
@@ -89,12 +96,7 @@ p.caption{
 	margin-top: 0px;
 }
 
-header h2{
-	color:white;
-	font-family: 'Space Mono', monospace;
-	font-size: 36px;
 
-}
 
 
 
